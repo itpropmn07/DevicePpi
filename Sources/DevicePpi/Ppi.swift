@@ -177,6 +177,16 @@ extension Ppi {
         ),
         (
             [
+                // iPad Air 11-inch (M2)
+                "iPad14,8", "iPad14,9",
+                // iPad Air 13-inch (M2)
+                "iPad14,10", "iPad14,11",
+                // iPad Pro 11-inch (M4)
+                "iPad16,3", "iPad16,4",
+                "iPad16,3-A", "iPad16,3-B", "iPad16,4-A", "iPad16,4-B",
+                // iPad Pro 13-inch (M4)
+                "iPad16,5", "iPad16,6",
+                "iPad16,5-A", "iPad16,5-B", "iPad16,6-A", "iPad16,6-B",
                 // iPad (10th generation)
                 "iPad13,18", "iPad13,19",
                 // iPad Pro (11″, 4th generation)
