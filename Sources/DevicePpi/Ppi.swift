@@ -65,6 +65,14 @@ extension Ppi {
         ),
         (
             [
+                // iPhone 16
+                "iPhone17,3",
+                // iPhone 16 Plus
+                "iPhone17,4",
+                // iPhone 16 Pro
+                "iPhone17,1",
+                // iPhone 16 Pro Max
+                "iPhone17,2",
                 // iPhone 15
                 "iPhone15,4",
                 // iPhone 15 Plus
