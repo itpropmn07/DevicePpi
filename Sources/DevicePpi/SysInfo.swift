@@ -12,7 +12,7 @@ public enum SysInfo {
     public static var machineName: String? = {
 
         // Simulator: can't rely on utsname (gives arm64 or x86_64) but there should be an env variable
-        if let simulatorName = ProcessInfo().environment["SIMULATOR_MODEL_IDENTIFIER"] {
+        if let simulatorName = ProcessInfo.processInfo.environment["SIMULATOR_MODEL_IDENTIFIER"] {
             return simulatorName
         }
         
