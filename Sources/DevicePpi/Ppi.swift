@@ -170,6 +170,8 @@ extension Ppi {
                 // iPhone 4S
                 "iPhone4,1",
 
+                // iPad mini (A17 Pro)
+                "iPad16,1", "iPad16,2",
                 // iPad mini (6th generation)
                 "iPad14,1", "iPad14,2",
                 // iPad mini (5th generation)
